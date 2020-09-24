@@ -209,15 +209,7 @@ function Board (options){
       return `<div id="view1"><h3>Which do you prefer?\n</h3>
       ${buttonHTML(1, "1player", "Man Against computer")}
       ${buttonHTML(1, "2players", "Man Against Man")}
-      </div> <footer class="page-footer font-small blue">
-
-  <!-- Copyright -->
-  <div class="footer-copyright text-center py-3">© 2020 Copyright:
-   Rishabh Mishra | NIT Patna CSE
-  </div>
-  <!-- Copyright -->
-
-</footer>`
+      </div>`
     }
 
     function htmlQ2(){
