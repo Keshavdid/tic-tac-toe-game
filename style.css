@@ -33,6 +33,8 @@ button {
 
 #gameView p, #resultView p  {
   margin: 1em 2em;
+  height:80%;
+  width:80%;
 }
 
 .cell {
